@@ -1,8 +1,8 @@
 {
-    "modelVersion": 2,
+    "modelVersion": 3,
     "downloadUrl": "https://mustak24.github.io/.assets/pay-voice/files/classification-model.ftz",
     "sizeBytes": 2586,
-    "minModelVersion": 2,
+    "minModelVersion": 3,
     "releaseNotes": "Improved Hinglish detection accuracy",
     "metadata": {
         "trained_at": "2026-05-20T04:46:42.981846Z",
